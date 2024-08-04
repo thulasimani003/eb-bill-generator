@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+.container{
+    background-color:white;
+    height:400px;
+    width:450px;
+    text-align:center;
+    padding:30px;
+    border-radius:20px;
+    transform:translate(400px,60px);
+}
+.container input{
+    height:50px;
+    width:300px;
+    margin:20px;
+    font-size:20px;
+}
+.container button{
+    margin:20px;
+    height:40px;
+    background-color:black;
+    color:white;
+}
+.container button:hover{
+    background-color:chocolate;
+}
+.result{
+    font-size:20px;
+    margin:30px;
+    font-weight:bold;
+}
